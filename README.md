@@ -23,10 +23,4 @@ The primary idea is to determine the factors in the service that are most influe
 - `Document.pdf`: Contains details of Phase 2 of the project.
 
 ## Tools and Technologies Used
-(Note: This section will be based on the tools and technologies mentioned in the PDFs, which haven't been detailed in the extracted text. Please update accordingly.)
-
-## How to Run
-(Note: Instructions on how to run the project or use the data/models are not provided in the extracted text. Please provide specific instructions or refer to the PDFs.)
-
-## License
-(Note: Licensing details were not provided in the extracted text. Please specify the license under which this project is released or refer to the PDFs.)
+Google Colab, Python Libraries 
