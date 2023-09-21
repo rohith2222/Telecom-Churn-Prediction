@@ -20,8 +20,7 @@ This project aims at predicting telecom churn based on various service-related f
 The primary idea is to determine the factors in the service that are most influential to the customers. Insights derived from this project will be beneficial for telecom companies to enhance their services and reduce customer churn.
 
 ## Files in this Repository
-- `Dic _Report .pdf`: Contains details of Phase 1 of the project.
-- `Phase 2.pdf`: Contains details of Phase 2 of the project.
+- `Document.pdf`: Contains details of Phase 2 of the project.
 
 ## Tools and Technologies Used
 (Note: This section will be based on the tools and technologies mentioned in the PDFs, which haven't been detailed in the extracted text. Please update accordingly.)
